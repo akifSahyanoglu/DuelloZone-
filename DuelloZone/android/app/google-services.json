@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190269786443",
+    "project_id": "duellozone",
+    "storage_bucket": "duellozone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190269786443:android:18bff18729447ebfa7c0ce",
+        "android_client_info": {
+          "package_name": "com.duellozone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190269786443-3e9vobjh7bs3voh2btd7no068j40ohuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfTybVNrlQ5GtcpgzQB2ROOIfKeQeJ8Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190269786443-3e9vobjh7bs3voh2btd7no068j40ohuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
